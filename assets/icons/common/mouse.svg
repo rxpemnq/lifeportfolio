@@ -1,0 +1,5 @@
+<svg viewBox="0 0 32 44" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32.000000" height="44.000000" fill="none">
+	<rect id="mouse" width="32.000000" height="44.000000" x="0.000000" y="0.000000" fill="rgb(255,255,255)" fill-opacity="0" />
+	<path id="Vector" d="M0 16C0 7.16344 7.16344 0 16 0C24.8366 0 32 7.16344 32 16L32 28C32 36.8366 24.8366 44 16 44L14 44L14 43.8762C6.10738 42.892 0 36.1592 0 28L0 16ZM16 40C22.6274 40 28 34.6274 28 28L28 16C28 9.37258 22.6274 4 16 4C9.37258 4 4 9.37258 4 16L4 28C4 34.6274 9.37258 40 16 40Z" fill="rgb(18,247,214)" fill-rule="evenodd" />
+	<path id="Vector" d="M17.3334 9.16663L17.3334 16.5L14.6667 16.5L14.6667 9.16663L17.3334 9.16663Z" fill="rgb(18,247,214)" fill-rule="nonzero" />
+</svg>
