@@ -12277,11 +12277,19 @@ Add users who can send requests to the AI ​​and sell tokens to your users. A
       const t = Pt(),
         r = xl(),
         n = se(() => [
-          { label: t.t.header.home, route: "/lifeportfolio", to: "/" },
-          { label: t.t.header.blogs, route: "/blogs", to: { name: "Blogs" } },
+          {
+            label: t.t.header.home,
+            route: "/lifeportfolio",
+            to: { name: "Home" },
+          },
+          {
+            label: t.t.header.blogs,
+            route: "/lifeportfolio/blogs",
+            to: { name: "Blogs" },
+          },
           {
             label: t.t.header.projects,
-            route: "/projects",
+            route: "/lifeportfolio/projects",
             to: { name: "Projects" },
           },
         ]),
